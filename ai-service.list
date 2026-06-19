@@ -5,6 +5,12 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,anthropic.com
 
 DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futusg.com
+DOMAIN-SUFFIX,futubull.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.io
 
 
 DOMAIN-SUFFIX,tailnet,DIRECT
